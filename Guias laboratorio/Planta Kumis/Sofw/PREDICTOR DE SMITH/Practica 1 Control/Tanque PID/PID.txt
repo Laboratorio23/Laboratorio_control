@@ -1,0 +1,15 @@
+al analizar los datos de la curva de reaccion se llego a los siguientes resultados
+
+Kp = 33,48cm/30%  == 1.082
+
+Tao = 3/2 ( 50,23 - 43,37 ) = 10.29 min
+t0 = 50,23 - 10,29 = 39,94 min
+
+PI 
+KC = 0,214
+Ti = 133
+
+PID 
+KC = 0,285
+Ti = 79,88
+Td = 19,97

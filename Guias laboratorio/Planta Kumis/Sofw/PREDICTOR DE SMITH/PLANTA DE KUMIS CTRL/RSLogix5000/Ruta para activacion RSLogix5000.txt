@@ -1,0 +1,7 @@
+En caso de que aparezca el mensaje de activaciòn de la licencia de RSLogix5000 dirigirse 
+a la siguiente ruta y eliminar los archivos ocultos que se encuentran en la carpeta Factorytalk Activation
+y volver a abrir el programa
+
+
+
+C:\Documents and Settings\All Users\Datos de programa\Rockwell Automation\FactoryTalk Activation
